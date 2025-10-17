@@ -1,6 +1,7 @@
 streamlit
-tensorflow==2.14.0
+tensorflow
 nltk
 bs4
 numpy
 pandas
+
